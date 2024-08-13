@@ -1,8 +1,8 @@
 ![Alt docker](docker.jpg)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NuxtJS](https://img.shields.io/badge/nuxtJS-%231572B6.svg?style=for-the-badge&logo=nuxtjs&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestJS-%231572B6.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NextJS](https://img.shields.io/badge/nextJS-%231572B6.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -137,7 +137,7 @@ This project explores the use of Docker for the deployment of modern web applica
 ### NextJS
 <!-- <img src="nextjs.png" alt="vuejs"> -->
 
-![NextJS](https://img.shields.io/badge/nextJS-%231572B6.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 
 ### 1. Create your project
