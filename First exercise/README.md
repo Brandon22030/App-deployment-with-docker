@@ -1,3 +1,5 @@
+![Alt docker](https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Ffr%2Fdocker%2F&psig=AOvVaw1ZLURXT7qxu0t7XHGJJmqm&ust=1723659094288000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj_3dLI8ocDFQAAAAAdAAAAABAE)
+
 # DOCKERFILES
 It's about how to create Dockerfiles for various frameworks and libraries
 
@@ -6,24 +8,14 @@ This project explores the use of Docker for the deployment of modern web applica
 
 # Getting Started
 
-##  REQUIRES
--  Vuejs
--  Nodesjs
--  Tailwind css
--  composer
--  php last version
--  laravel
--  docker
--  mysql
-<br>
 
 ## INSTALLATION
 
--   Clone the contents to working web directory using git clone "reposistory".
--   Make npm install,npm run dev in the Frontend file
--   Make composer install in the Backend file
--   Configure .env file and run php artisan migrate
--   Make php artisan serve
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Brandon22030/App-deployment-with-docker.git
+   ```
+
 <br>
 
 # Usage
