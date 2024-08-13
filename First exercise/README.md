@@ -138,7 +138,7 @@ This project explores the use of Docker for the deployment of modern web applica
 ### NextJS
 <!-- <img src="nextjs.png" alt="vuejs"> -->
 
-![NextJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 
 ### 1. Create your project
@@ -164,7 +164,7 @@ This project explores the use of Docker for the deployment of modern web applica
 ### NuxtJS
 <!-- <img src="nuxtjs.png" alt="vuejs"> -->
 
-![NuxtJS](https://img.shields.io/badge/nuxtJS-%231572B6.svg?style=for-the-badge&logo=nuxtjs&logoColor=white)
+![NuxtJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 ### 1. Create your project
    ```bash
