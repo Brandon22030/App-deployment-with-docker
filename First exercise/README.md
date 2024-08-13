@@ -28,7 +28,7 @@ This project explores the use of Docker for the deployment of modern web applica
 make sure the dockerfile is in the project folder
 
 ### 2. Build the Dockerfile
-   ```bash
+    ```bash
     sudo docker build -t vuejs-docker .
    ```
 
