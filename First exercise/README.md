@@ -1,4 +1,5 @@
 ![Alt docker](docker.jpg)
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestJS-%231572B6.svg?style=for-the-badge&logo=nestjs&logoColor=white)
