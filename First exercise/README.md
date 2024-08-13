@@ -59,9 +59,26 @@ make sure the dockerfile is in the project folder
    sudo docker run  -it -p 4000:80 —name docker-react-container reactjs-docker
    ```
 check your website on http://localhost:4000
+<br>
 
+##
+### Reactjs
+### 1. Create your project
+   ```bash
+   npx create-react-app reactjs-docker
+   ```
+make sure the dockerfile is in the project folder
 
+### 2. Build the Dockerfile
+   ```bash
+   sudo docker build -t reactjs-docker .
+   ```
 
+### 3. Run the Dockerfile
+   ```bash
+   sudo docker run  -it -p 4000:80 —name docker-react-container reactjs-docker
+   ```
+check your website on http://localhost:4000
 
 
 
