@@ -27,7 +27,7 @@ This project explores the use of Docker for the deployment of modern web applica
    ```bash
    npm create vue@latest
    ```
-make sure the dockerfile is in the project folder
+*make sure the dockerfile is in the project folder*
 
 ### 2. Build the Dockerfile
    ```bash
@@ -38,7 +38,7 @@ make sure the dockerfile is in the project folder
    ```bash
    sudo docker run -it -p 5073:5073 vuejs-docker
    ```
-check your website on http://localhost:5073
+**check your website on http://localhost:5073**
 
 
 ##
@@ -47,7 +47,7 @@ check your website on http://localhost:5073
    ```bash
    npx create-react-app reactjs-docker
    ```
-make sure the dockerfile is in the project folder
+*make sure the dockerfile is in the project folder*
 
 ### 2. Build the Dockerfile
    ```bash
@@ -58,8 +58,8 @@ make sure the dockerfile is in the project folder
    ```bash
    sudo docker run  -it -p 4000:80 —name docker-react-container reactjs-docker
    ```
-check your website on http://localhost:4000
-<br>
+**check your website on http://localhost:4000**
+
 
 ##
 ### Laravel
@@ -67,7 +67,7 @@ check your website on http://localhost:4000
    ```bash
    composer create laravel/laravel laravel-docker-app
    ```
-make sure the dockerfile is in the project folder
+*make sure the dockerfile is in the project folder*
 
 ### 2. Build the Dockerfile
    ```bash
@@ -79,7 +79,7 @@ make sure the dockerfile is in the project folder
    sudo docker run  -it -p 8000:8000 —name docker-laravel-container laravel-docker
    ```
 
-check your website on http://localhost:8000
+**check your website on http://localhost:8000**
 
 
 ##
@@ -93,7 +93,7 @@ check your website on http://localhost:8000
    nest new nestjs–docker
    ```
 
-make sure the dockerfile is in the project folder
+*make sure the dockerfile is in the project folder*
 
 ### 2. Build the Dockerfile
    ```bash
@@ -104,7 +104,7 @@ make sure the dockerfile is in the project folder
    ```bash
    sudo docker run  -it -p 3000:3000 —name docker-nestjs-container nestjs-docker
    ```
-check your website on http://localhost:3000
+**check your website on http://localhost:3000**
 
 
 
