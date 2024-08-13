@@ -21,7 +21,7 @@ This project explores the use of Docker for the deployment of modern web applica
 # Usage
 
 ### Vuejs
-<img src="vuejs.png" alt="vuejs" style="display:block;margin-left:auto;margin-right:auto;width:50%;border:1px solid black;">
+<img src="vuejs.png" alt="vuejs" style="display:block; margin-left:auto; margin-right:auto; width:50%; border:1px solid black;">
 
 ### 1. Create your project
    ```bash
