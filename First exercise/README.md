@@ -1,4 +1,8 @@
 ![Alt docker](docker.jpg)
+![LARAVEL](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # DOCKERFILES
 It's about how to create Dockerfiles for various frameworks and libraries
 
@@ -271,13 +275,9 @@ You can add this into your app.py file
 
 ##
 ### NodeJS with Express
-<div style="display:flex">
 
 <img src="nodejs.png" alt="vuejs">
 <img src="expressjs.png" alt="vuejs">
-
-</div>
-
 
 ### 1. Getting your project ready
 
