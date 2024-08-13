@@ -271,8 +271,13 @@ You can add this into your app.py file
 
 ##
 ### NodeJS with Express
+<div style="display:flex">
+
 <img src="nodejs.png" alt="vuejs">
 <img src="expressjs.png" alt="vuejs">
+
+</div>
+
 
 ### 1. Getting your project ready
 
