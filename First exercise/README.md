@@ -89,7 +89,7 @@ check your website on http://localhost:8000
    npm i -g @nestjs/cli
    ```
 
-      ```bash
+   ```bash
    nest new nestjs–docker
    ```
 
