@@ -20,9 +20,23 @@ This project explores the use of Docker for the deployment of modern web applica
 
 # Usage
 
-- Check that tailwind is installed in the project
-- Check that composer and laravel are installed 
-- Check that components are imported correctly
+### Vuejs
+1. Create a virtual environment
+    ```bash
+    npm create vue@latest
+    ```
+make sure the dockerfile is in the project folder
+
+2. Build the Dockerfile
+   ```bash
+    sudo docker build -t vuejs-docker .
+   ```
+
+3. Run the Dockerfile
+    ```bash
+    sudo docker run  -it -p 5073:5073 vuejs-docker
+    ```
+check your website on http://localhost:5073
 
 # Authors
 1. This project was carried out by Daniel MEDEHOU project manager responsible for
