@@ -21,18 +21,18 @@ This project explores the use of Docker for the deployment of modern web applica
 # Usage
 
 ### Vuejs
-1. Create a virtual environment
+### 1. Create a virtual environment
     ```bash
     npm create vue@latest
     ```
 make sure the dockerfile is in the project folder
 
-2. Build the Dockerfile
+### 2. Build the Dockerfile
    ```bash
     sudo docker build -t vuejs-docker .
    ```
 
-3. Run the Dockerfile
+### 3. Run the Dockerfile
     ```bash
     sudo docker run  -it -p 5073:5073 vuejs-docker
     ```
