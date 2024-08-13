@@ -62,23 +62,23 @@ check your website on http://localhost:4000
 <br>
 
 ##
-### Reactjs
+### Laravel
 ### 1. Create your project
    ```bash
-   npx create-react-app reactjs-docker
+   composer create laravel/laravel laravel-docker-app
    ```
 make sure the dockerfile is in the project folder
 
 ### 2. Build the Dockerfile
    ```bash
-   sudo docker build -t reactjs-docker .
+   sudo docker build -t laravel-docker .
    ```
 
 ### 3. Run the Dockerfile
    ```bash
-   sudo docker run  -it -p 4000:80 —name docker-react-container reactjs-docker
+   sudo docker run  -it -p 8000:8000 —name docker-laravel-container laravel-docker
    ```
-check your website on http://localhost:4000
+check your website on http://localhost:8000
 
 
 
