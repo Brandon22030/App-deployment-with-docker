@@ -33,9 +33,9 @@ make sure the dockerfile is in the project folder
    ```
 
 ### 3. Run the Dockerfile
-    ```bash
-    sudo docker run  -it -p 5073:5073 vuejs-docker
-    ```
+   ```bash
+   sudo docker run  -it -p 5073:5073 vuejs-docker
+   ```
 check your website on http://localhost:5073
 
 # Authors
