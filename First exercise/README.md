@@ -133,7 +133,10 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NextJS
-<img src="nextjs.png" alt="vuejs">
+<!-- <img src="nextjs.png" alt="vuejs"> -->
+
+![NextJS](https://img.shields.io/badge/nextJS-%231572B6.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+
 
 ### 1. Create your project
    ```bash
@@ -156,7 +159,9 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NuxtJS
-<img src="nuxtjs.png" alt="vuejs">
+<!-- <img src="nuxtjs.png" alt="vuejs"> -->
+
+![NuxtJS](https://img.shields.io/badge/nuxtJS-%231572B6.svg?style=for-the-badge&logo=nuxtjs&logoColor=white)
 
 ### 1. Create your project
    ```bash
@@ -179,7 +184,9 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### React Native
-<img src="reactNative.png" alt="vuejs">
+<!-- <img src="reactNative.png" alt="vuejs"> -->
+
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 1. Create your project
    ```bash
@@ -202,7 +209,9 @@ This project explores the use of Docker for the deployment of modern web applica
 
 #
 ### Flask
-<img src="flask.png" alt="vuejs">
+<!-- <img src="flask.png" alt="vuejs"> -->
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 1. Create a directory named "Flask-Docker-App"
    ```bash
@@ -290,8 +299,11 @@ You can add this into your app.py file
 ##
 ### NodeJS with Express
 
-<img src="nodejs.png" alt="vuejs">
-<img src="expressjs.png" alt="vuejs">
+<!-- <img src="nodejs.png" alt="vuejs">
+<img src="expressjs.png" alt="vuejs"> -->
+
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### 1. Getting your project ready
 
