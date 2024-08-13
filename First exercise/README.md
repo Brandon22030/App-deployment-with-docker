@@ -53,7 +53,9 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### Reactjs
-<img src="reactjs.png" alt="vuejs" style="width:100vh; align-items:center">
+<!-- <img src="reactjs.png" alt="vuejs" style="width:100vh; align-items:center"> -->
+
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 ### 1. Create your project
@@ -76,7 +78,9 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### Laravel
-<img src="laravel.png" alt="vuejs">
+<!-- <img src="laravel.png" alt="vuejs"> -->
+
+![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 1. Create your project
    ```bash
@@ -99,7 +103,10 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NestJS
-<img src="nestjs.png" alt="vuejs">
+<!-- <img src="nestjs.png" alt="vuejs"> -->
+
+![NestJS](https://img.shields.io/badge/nestJS-%231572B6.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
 
 ### 1. Create your project
    ```bash
