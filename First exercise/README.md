@@ -78,10 +78,33 @@ make sure the dockerfile is in the project folder
    ```bash
    sudo docker run  -it -p 8000:8000 —name docker-laravel-container laravel-docker
    ```
+
 check your website on http://localhost:8000
 
 
+##
+### NestJS
+### 1. Create your project
+   ```bash
+   npm i -g @nestjs/cli
+   ```
 
+      ```bash
+   nest new nestjs–docker
+   ```
+
+make sure the dockerfile is in the project folder
+
+### 2. Build the Dockerfile
+   ```bash
+   sudo docker build -t nestjs-docker . 
+   ```
+
+### 3. Run the Dockerfile
+   ```bash
+   sudo docker run  -it -p 3000:3000 —name docker-nestjs-container nestjs-docker
+   ```
+check your website on http://localhost:3000
 
 
 
