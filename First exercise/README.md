@@ -43,6 +43,9 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### Reactjs
+<img src="reactjs.png" alt="vuejs" style="width:100vh; align-items:center">
+
+
 ### 1. Create your project
    ```bash
    npx create-react-app reactjs-docker
@@ -63,6 +66,8 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### Laravel
+<img src="laravel.png" alt="vuejs" style="width:100vh; align-items:center">
+
 ### 1. Create your project
    ```bash
    composer create laravel/laravel laravel-docker-app
@@ -84,6 +89,8 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NestJS
+<img src="nestjs.png" alt="vuejs" style="width:100vh; align-items:center">
+
 ### 1. Create your project
    ```bash
    npm i -g @nestjs/cli
@@ -109,6 +116,8 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NextJS
+<img src="nextjs.png" alt="vuejs" style="width:100vh; align-items:center">
+
 ### 1. Create your project
    ```bash
    npx create-next-app@latest
@@ -130,6 +139,8 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NuxtJS
+<img src="nuxtjs.png" alt="vuejs" style="width:100vh; align-items:center">
+
 ### 1. Create your project
    ```bash
    npx nuxi@latest init nuxtjs-docker-app
@@ -151,6 +162,8 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### React Native
+<img src="reactNative.png" alt="vuejs" style="width:100vh; align-items:center">
+
 ### 1. Create your project
    ```bash
    npx react-native init react-native-docker
@@ -172,6 +185,8 @@ This project explores the use of Docker for the deployment of modern web applica
 
 #
 ### Flask
+<img src="flask.png" alt="vuejs" style="width:100vh; align-items:center">
+
 ### 1. Create a directory named "Flask-Docker-App"
    ```bash
    mkdir Flask-Docker-App
@@ -257,6 +272,9 @@ You can add this into your app.py file
 
 ##
 ### NodeJS with Express
+<img src="nodejs.png" alt="vuejs" style="width:100vh; align-items:center">
+<img src="expressjs.png" alt="vuejs" style="width:100vh; align-items:center">
+
 ### 1. Getting your project ready
 
 Open your terminal and go to where you want your project to be. Start a new Node.js project by typing:
