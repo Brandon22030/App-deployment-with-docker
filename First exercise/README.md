@@ -1,4 +1,4 @@
-![Alt docker](Docker-Logo.png) with <img src="Docker-Logo.png" width="100" height="100">
+![Alt docker]<img src="Docker-Logo.png" width="100" height="100">
 
 # DOCKERFILES
 It's about how to create Dockerfiles for various frameworks and libraries
