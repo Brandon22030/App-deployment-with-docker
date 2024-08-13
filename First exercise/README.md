@@ -20,9 +20,7 @@ This project explores the use of Docker for the deployment of modern web applica
 # Usage
 
 ### Vuejs
-<div style="text-align:center">
-    <img src="vuejs.png" alt="vuejs" style="width:50vh">
-</div>
+<img src="vuejs.png" alt="vuejs">
 
 ### 1. Create your project
    ```bash
@@ -67,7 +65,7 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### Laravel
-<img src="laravel.png" alt="vuejs" style="width:100vh; align-items:center">
+<img src="laravel.png" alt="vuejs">
 
 ### 1. Create your project
    ```bash
@@ -90,7 +88,7 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NestJS
-<img src="nestjs.png" alt="vuejs" style="width:100vh; align-items:center">
+<img src="nestjs.png" alt="vuejs">
 
 ### 1. Create your project
    ```bash
@@ -117,7 +115,7 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NextJS
-<img src="nextjs.png" alt="vuejs" style="width:100vh; align-items:center">
+<img src="nextjs.png" alt="vuejs">
 
 ### 1. Create your project
    ```bash
@@ -140,7 +138,7 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### NuxtJS
-<img src="nuxtjs.png" alt="vuejs" style="width:100vh; align-items:center">
+<img src="nuxtjs.png" alt="vuejs">
 
 ### 1. Create your project
    ```bash
@@ -163,7 +161,7 @@ This project explores the use of Docker for the deployment of modern web applica
 
 ##
 ### React Native
-<img src="reactNative.png" alt="vuejs" style="width:100vh; align-items:center">
+<img src="reactNative.png" alt="vuejs">
 
 ### 1. Create your project
    ```bash
@@ -186,7 +184,7 @@ This project explores the use of Docker for the deployment of modern web applica
 
 #
 ### Flask
-<img src="flask.png" alt="vuejs" style="width:100vh; align-items:center">
+<img src="flask.png" alt="vuejs">
 
 ### 1. Create a directory named "Flask-Docker-App"
    ```bash
@@ -273,8 +271,8 @@ You can add this into your app.py file
 
 ##
 ### NodeJS with Express
-<img src="nodejs.png" alt="vuejs" style="width:100vh; align-items:center">
-<img src="expressjs.png" alt="vuejs" style="width:100vh; align-items:center">
+<img src="nodejs.png" alt="vuejs">
+<img src="expressjs.png" alt="vuejs">
 
 ### 1. Getting your project ready
 
@@ -345,35 +343,10 @@ To add express, which helps you manage your server, type:
    ```
 *Check your website on **http://localhost:3000/***
 
-
-
-# Authors
-1. This project was carried out by Daniel MEDEHOU project manager responsible for
-
-   - Post and category crud api management
-   - Oragnisation and cordination of the team and Merging
-
-   - Github : [Daniel MEDEHOU](https://github.com/Brandon22030)
-   - Email : daniel.medehou@epitech.eu
-
-2. Romeo GOSSOU-BAH in charge of user crud and user profile management
-
-   * Github : [Romeo GOSSOU-BAH](https://github.com/Romeo2520)
-   * Email : romeo.gossou-bah@epitech.eu
-
-3.  Stone AFEDJOU in charge of comment crud management and post display, kpi management
-
-   * Github : [Stone AFEDJOU](https://github.com/stonefadel02)
-   * Email : stone.afedjou@epitech.eu
-
-4.  Farid ADOI in charge of managing likes and posts 
-
-   * Github : [Farid ADOI](https://github.com/Fqr1d0)
-   * Email : farid.adoi@epitech.eu
-
+<!-- 
 <br>
 
 # License
 
 - This project is owned by Daniel MEDEHOU, Romeo GOSSOU-BAH,Stone AFEDJOU and Farid ADOI
-- The project is open source but can't be used for illegal purposes.
+- The project is open source but can't be used for illegal purposes. -->
