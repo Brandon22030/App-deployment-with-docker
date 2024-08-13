@@ -1,4 +1,4 @@
-<img src="docker.jpg" alt="docker" style="width:50px; height:50px">
+<img src="docker.jpg" alt="docker" style="width:50%; height:50%">
 
 # DOCKERFILES
 It's about how to create Dockerfiles for various frameworks and libraries
