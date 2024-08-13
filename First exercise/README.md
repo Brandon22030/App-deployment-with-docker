@@ -107,7 +107,152 @@ This project explores the use of Docker for the deployment of modern web applica
 **check your website on http://localhost:3000**
 
 
+##
+### NextJS
+### 1. Create your project
+   ```bash
+   npx create-next-app@latest
+   ```
 
+*make sure the dockerfile is in the project folder*
+
+### 2. Build the Dockerfile
+   ```bash
+   sudo docker build -t nextjs-docker .
+   ```
+
+### 3. Run the Dockerfile
+   ```bash
+   sudo docker run  -it -p 3000:3000 —name docker-nextjs-container nextjs-docker
+   ```
+**check your website on http://localhost:3000**
+
+
+##
+### NuxtJS
+### 1. Create your project
+   ```bash
+   npx nuxi@latest init nuxtjs-docker-app
+   ```
+
+*make sure the dockerfile is in the project folder*
+
+### 2. Build the Dockerfile
+   ```bash
+   sudo docker build -t nuxtjs-docker .
+   ```
+
+### 3. Run the Dockerfile
+   ```bash
+   sudo docker run  -it -p 3000:3000 —name docker-nuxtjs-container nuxtjs-docker
+   ```
+**check your website on http://localhost:3000**
+
+
+##
+### React Native
+### 1. Create your project
+   ```bash
+   npx react-native init react-native-docker
+   ```
+
+*make sure the dockerfile is in the project folder*
+
+### 2. Build the Dockerfile
+   ```bash
+   sudo docker build -t reactNative-docker .
+   ```
+
+### 3. Run the Dockerfile
+   ```bash
+   sudo docker run  -it -p 3000:3000 —name docker-reactNative-container reactNative-docker
+   ```
+**check your website on http://localhost:8081**
+
+
+#
+### Flask
+### 1. Create a directory named "Flask-Docker-App"
+   ```bash
+   mkdir Flask-Docker-App
+   ```
+
+### 2. Navigate to the newly created directory
+   ```bash
+   cd Flask-Docker-App
+   ```
+
+### 3. Create a virtual environment
+
+**Windows**
+   ```bash
+   py -3 -m venv venv
+   ```
+**macOS/Linux**
+   ```bash
+   python3 -m venv venv
+   ```
+
+### 4. Activate the environment
+
+**Windows**
+   ```bash
+   venv\Scripts\activate
+   ```
+**macOS/Linux**
+   ```bash
+   . venv/bin/activate
+   ```
+
+### 5. Install Flask
+   ```bash
+   pip install Flask
+   ```
+
+### 6. Create the required files
+
+**Create three files:** *app.py, requirements.txt and Dockerfile*
+   ```bash
+   touch app.py requirements.txt Dockerfile
+   ```
+
+### 7. app.py content
+
+You can add this into your app.py file
+
+   ```bash
+   from flask import Flask
+   app = Flask(__name__)
+   @app.route('/')
+   def hello_geek():
+   return '<h1>Hello from Flask & Docker</h2>'
+   if __name__ == "__main__":
+   app.run(debug=True)
+   ```
+
+### 8. requirements.txt content
+
+**Here, All we need is the flask module for our little workshop.**
+
+**You can check your flask version by typing :** *pip freeze*
+
+   ```bash
+   flask==3.0.3
+   ```
+
+**Now, make sure the dockerfile is in the project folder**
+
+### 9. Build the Dockerfile
+   ```bash
+   sudo docker build -t flask-docker . 
+   ```
+
+### 10. Run the Dockerfile
+   ```bash
+   sudo docker run  -it -p 5000:5000 —name docker-flask-container flask-docker
+   ```
+
+**check your website on http://127.0.0.1:5000 / http://127.0.0.2:5000**
 
 
 
