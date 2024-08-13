@@ -34,9 +34,40 @@ make sure the dockerfile is in the project folder
 
 ### 3. Run the Dockerfile
    ```bash
-   sudo docker run  -it -p 5073:5073 vuejs-docker
+   sudo docker run -it -p 5073:5073 vuejs-docker
    ```
 check your website on http://localhost:5073
+
+
+##
+### Vuejs
+### 1. Create a virtual environment
+   ```bash
+   npm create vue@latest
+   ```
+make sure the dockerfile is in the project folder
+
+### 2. Build the Dockerfile
+   ```bash
+   sudo docker build -t vuejs-docker .
+   ```
+
+### 3. Run the Dockerfile
+   ```bash
+   sudo docker run -it -p 5073:5073 vuejs-docker
+   ```
+check your website on http://localhost:5073
+
+
+
+
+
+
+
+
+
+
+
 
 # Authors
 1. This project was carried out by Daniel MEDEHOU project manager responsible for
